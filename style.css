@@ -1,0 +1,99 @@
+*{
+	margin:0;padding:0; 	
+}
+#slider-one{
+	background-image:url(images/2.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	height:auto;
+	
+}
+.alpha{
+	background-color:rgba(0,0,0,0.9);
+	height:auto;
+}
+ .one h1{
+	color: gold;
+}
+.one li a{
+	text-transform: uppercase;
+	font-weight: bold;
+}
+ .one li a:hover{
+	color: red;
+}
+.two h1{
+	color:white;
+	text-align: center;
+	text-transform: capitalize;
+	padding-top: 70px;
+	margin-bottom: 100px;
+}
+/*styling of section-two*/
+#slider-two{
+	height: auto;
+}
+img{
+	height: 45vh;
+	width: 75%;
+	border-radius: 40px;
+	/*object-fit: contain;*/
+}
+span{
+	color:gold;
+}
+.snd-row1 button{
+	border: none;
+	background-color: gray;
+	color: white;
+	font-size: 20px;
+}
+.snd-row2{
+	padding-top: 30px;
+}
+.snd-row2 button{
+	border: none;
+	border-top:2px solid gold;
+	border-bottom: 2px solid gold;
+	font-size: 20px; 
+}
+.snd-row2 button:hover{
+	background-color: yellow;
+}
+#slider-three{
+	height: auto;
+}
+.mg1 img{
+	width: 100%;
+}
+.mg2 img{
+	width: 100%;
+}
+.mg3 img{
+	width: 100%;
+}
+.four{
+	text-align: center;
+	text-transform: capitalize;
+}
+.four button{
+	border: none;
+	border-top: 2px solid gold;
+	border-bottom: 2px solid gold;
+	font-size: 20px;
+}
+.four button:hover{
+	background-color: tomato;
+}
+#slider-four{
+	background-color: rgba(0,0,0,0.9);
+	height:auto;
+}
+.last-dv{
+	text-align: center;
+	text-transform: capitalize;
+	color: white;
+}
+i,h4{
+	color: gold;
+}
